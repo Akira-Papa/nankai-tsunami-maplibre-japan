@@ -1,0 +1,201 @@
+{
+ "generated": "2026-09-02",
+ "precision_decimals": 4,
+ "prefectures": {
+  "01": {
+   "file": "coastal/01.geojson",
+   "features": 86,
+   "bytes": 1262125
+  },
+  "02": {
+   "file": "coastal/02.geojson",
+   "features": 22,
+   "bytes": 292578
+  },
+  "03": {
+   "file": "coastal/03.geojson",
+   "features": 12,
+   "bytes": 757607
+  },
+  "04": {
+   "file": "coastal/04.geojson",
+   "features": 14,
+   "bytes": 747084
+  },
+  "05": {
+   "file": "coastal/05.geojson",
+   "features": 8,
+   "bytes": 244521
+  },
+  "06": {
+   "file": "coastal/06.geojson",
+   "features": 3,
+   "bytes": 73151
+  },
+  "07": {
+   "file": "coastal/07.geojson",
+   "features": 10,
+   "bytes": 51899
+  },
+  "08": {
+   "file": "coastal/08.geojson",
+   "features": 9,
+   "bytes": 46193
+  },
+  "12": {
+   "file": "coastal/12.geojson",
+   "features": 27,
+   "bytes": 290364
+  },
+  "13": {
+   "file": "coastal/13.geojson",
+   "features": 15,
+   "bytes": 576712
+  },
+  "14": {
+   "file": "coastal/14.geojson",
+   "features": 15,
+   "bytes": 136613
+  },
+  "15": {
+   "file": "coastal/15.geojson",
+   "features": 12,
+   "bytes": 303551
+  },
+  "16": {
+   "file": "coastal/16.geojson",
+   "features": 9,
+   "bytes": 42711
+  },
+  "17": {
+   "file": "coastal/17.geojson",
+   "features": 15,
+   "bytes": 221556
+  },
+  "18": {
+   "file": "coastal/18.geojson",
+   "features": 11,
+   "bytes": 297605
+  },
+  "22": {
+   "file": "coastal/22.geojson",
+   "features": 21,
+   "bytes": 233720
+  },
+  "23": {
+   "file": "coastal/23.geojson",
+   "features": 19,
+   "bytes": 131897
+  },
+  "24": {
+   "file": "coastal/24.geojson",
+   "features": 18,
+   "bytes": 703571
+  },
+  "26": {
+   "file": "coastal/26.geojson",
+   "features": 4,
+   "bytes": 104012
+  },
+  "27": {
+   "file": "coastal/27.geojson",
+   "features": 12,
+   "bytes": 36911
+  },
+  "28": {
+   "file": "coastal/28.geojson",
+   "features": 18,
+   "bytes": 265164
+  },
+  "30": {
+   "file": "coastal/30.geojson",
+   "features": 18,
+   "bytes": 408650
+  },
+  "31": {
+   "file": "coastal/31.geojson",
+   "features": 9,
+   "bytes": 85032
+  },
+  "32": {
+   "file": "coastal/32.geojson",
+   "features": 10,
+   "bytes": 380248
+  },
+  "33": {
+   "file": "coastal/33.geojson",
+   "features": 7,
+   "bytes": 86541
+  },
+  "34": {
+   "file": "coastal/34.geojson",
+   "features": 13,
+   "bytes": 163389
+  },
+  "35": {
+   "file": "coastal/35.geojson",
+   "features": 18,
+   "bytes": 388021
+  },
+  "36": {
+   "file": "coastal/36.geojson",
+   "features": 8,
+   "bytes": 300285
+  },
+  "37": {
+   "file": "coastal/37.geojson",
+   "features": 12,
+   "bytes": 119082
+  },
+  "38": {
+   "file": "coastal/38.geojson",
+   "features": 14,
+   "bytes": 488128
+  },
+  "39": {
+   "file": "coastal/39.geojson",
+   "features": 19,
+   "bytes": 450257
+  },
+  "40": {
+   "file": "coastal/40.geojson",
+   "features": 17,
+   "bytes": 242438
+  },
+  "41": {
+   "file": "coastal/41.geojson",
+   "features": 7,
+   "bytes": 63125
+  },
+  "42": {
+   "file": "coastal/42.geojson",
+   "features": 20,
+   "bytes": 1010071
+  },
+  "43": {
+   "file": "coastal/43.geojson",
+   "features": 14,
+   "bytes": 257868
+  },
+  "44": {
+   "file": "coastal/44.geojson",
+   "features": 12,
+   "bytes": 272419
+  },
+  "45": {
+   "file": "coastal/45.geojson",
+   "features": 10,
+   "bytes": 278734
+  },
+  "46": {
+   "file": "coastal/46.geojson",
+   "features": 39,
+   "bytes": 954249
+  },
+  "47": {
+   "file": "coastal/47.geojson",
+   "features": 40,
+   "bytes": 588022
+  }
+ }
+}

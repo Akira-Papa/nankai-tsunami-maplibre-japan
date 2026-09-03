@@ -1,0 +1,17 @@
+{
+  "name": "南海トラフ 津波浸水3Dビジュアライザ（簡易・全国版）",
+  "short_name": "南海津波3D",
+  "description": "南海トラフ巨大地震の市町村別津波高（内閣府 2025／2012）を全国の沿岸市区町村ごとに3D地形へ重ね、公式浸水想定と簡易試算を見比べる可視化。公式想定ではありません。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
