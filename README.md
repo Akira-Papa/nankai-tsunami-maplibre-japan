@@ -4,7 +4,9 @@
 国土地理院の実標高（DEM10B）から生成した3D地形に重ね、公式の**重ねるハザードマップ 津波浸水想定**と見比べます。
 外部APIキー・有料サービス・サーバーサイド処理は一切使いません（静的ファイルのみ）。
 
-📖 使い方: [docs/manual/使い方マニュアル.md](docs/manual/使い方マニュアル.md) ／ 共有データ契約: [../shared/DATA_CONTRACT.md](../shared/DATA_CONTRACT.md)
+- 🌐 **Web公開サイト**: [https://nankai-tsunami-maplibre-japan.akirafunakoshi.com/?h=2.7&m=13108](https://nankai-tsunami-maplibre-japan.akirafunakoshi.com/?h=2.7&m=13108)
+
+📖 **使い方（初心者向け・操作ガイド）**: [docs/manual/使い方マニュアル.md](docs/manual/使い方マニュアル.md) ／ 共有データ契約: [../shared/DATA_CONTRACT.md](../shared/DATA_CONTRACT.md)
 
 > **免責**: 簡易可視化であり公式想定ではありません。内閣府の津波高は海岸線での最大値で、内陸へ一律に適用すると過大・過小になります。
 > 避難判断は各自治体のハザードマップ（[ハザードマップポータルサイト](https://disaportal.gsi.go.jp/)）を参照してください。
